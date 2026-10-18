@@ -7,4 +7,5 @@ counter_tb.o: ../counter_tb.cpp Vcounter.h \
  /home/sally/Documents/iac/toolchain/share/verilator/include/verilated_vcd_c.h \
  /home/sally/Documents/iac/toolchain/share/verilator/include/verilated.h \
  /home/sally/Documents/iac/toolchain/share/verilator/include/verilated_trace.h \
- /home/sally/Documents/iac/toolchain/share/verilator/include/verilated_trace_defs.h
+ /home/sally/Documents/iac/toolchain/share/verilator/include/verilated_trace_defs.h \
+ ../vbuddy.cpp
